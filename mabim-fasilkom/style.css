@@ -1,0 +1,67 @@
+/* Halaman index */
+body{
+    margin: 0px;
+}
+nav{
+    background-color: rgb(10, 229, 245);
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    color: aquamarine;
+    float: right;
+    padding: 20px;
+}
+nav a :hover{
+    text-decoration: none;
+    color: aquamarine;
+    float: right;
+    padding: 20px;
+    background: aquamarine;
+}
+nav img{
+    float: left;
+}
+
+h1{
+    color: aquamarine;
+    float: right;
+}
+
+
+
+/*HALAMAN INDEX*/
+
+/*HALAMAN LOGIN*/
+.warp{
+    padding: 50px 500px 50px 500px;
+}
+
+.bg-login{
+    background-color: aquamarine;
+    border-radius: 50px;
+}
+
+input[type="text"] input [type="password"] {
+    width: 100px;
+}
+input[type=button] {
+    background-color: aqua;
+    color: aquamarine;
+    width: 100px;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    display: inline-block;
+    border-radius: 100px;
+}
+
+form a{
+    text-decoration: none;
+    background-color: aquamarine;
+    color: aqua;ws
+    width: 100px;
+    margin: 10px 0px 10px 0px;
+    display: inline-block;
+    border-radius: 100px;
+}
+/*HALAMAN INDEX*/
